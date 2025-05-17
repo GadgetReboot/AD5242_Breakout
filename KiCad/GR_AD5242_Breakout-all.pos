@@ -1,0 +1,15 @@
+### Footprint positions - created on 2025-03-30T16:20:13-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val         Package                                           PosX       PosY       Rot  Side
+C1        100nF       C_0805_2012Metric_Pad1.15x1.40mm_HandSolder     9.3726     8.8718   90.0000  top
+J1        Conn_01x06  PinHeader_1x06_P2.54mm_Vertical                 9.1910    16.8092   90.0000  top
+J2        Conn_01x09  PinHeader_1x09_P2.54mm_Vertical                 1.5710     1.5692   90.0000  top
+R1        10K         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     7.2546     8.8948  -90.0000  top
+R2        10K         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     3.3126     8.8186  -90.0000  top
+R3        10K         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder     5.3242     8.8402  -90.0000  top
+R4        10K         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    20.3080     9.0088   90.0000  top
+R5        10K         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    22.2928     8.9834   90.0000  top
+U1        AD5242      TSSOP-16_4.4x5mm_P0.65mm                       14.7404     8.9108    0.0000  top
+## End
